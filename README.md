@@ -4,7 +4,8 @@
 
 **Internal Hackathon | Indian Institute of Technology Madras**
 
-**Team: EmtyBrains**
+**Team: EmtyBrains**  
+
 This Has Been Archived On Date 18-09-2026.  
 All deployment has been paused.
 ---
